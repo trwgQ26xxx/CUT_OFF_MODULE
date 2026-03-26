@@ -1,3 +1,15 @@
+# Information about OE Fiat 126p Modules
+
+## CUT-OFF Module
+
+Schematic of a fuel cut-off module for carburetor engines equipped with a catalytic converter.
+
+Originally drawn in 2018 using Eagle 7.6.0. The project has now been made public and imported into KiCad 8.0.1.
+
+## ESD-48 Module
+
+Schematic of an acoustic choke warning signalizer.
+
 # Disclaimer
 
 Nie wyrażam zgody na wykorzystanie całości bądź części projektu w celach zarobkowych!
@@ -14,9 +26,3 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-# CUT-OFF module information
-
-Schematic of fuel cut off module for carburetor engines with catalytic converter.
-
-Originally drawn in 2018 with Eagle 7.6.0, now made public imported to KiCad 8.0.1.
